@@ -22,4 +22,4 @@ public class exampleintheritance {
         Dog dog = new Dog();
         dog.makeSound(); // Output: Dog barks
     }
-}
+} // okok
